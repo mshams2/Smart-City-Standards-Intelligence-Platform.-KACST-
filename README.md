@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mshams2/Smart-City-Standards-Intelligence-Platform-KACST-/main/images.png" width="300" alt="KACST Logo">
+</p>
+
 # Smart City Standards Intelligence Platform (KACST)
 
 A Streamlit-based interactive intelligence platform designed for searching, analyzing, and comparing smart city standards, evaluating organizational maturity gaps, and reviewing supporting evidence.
